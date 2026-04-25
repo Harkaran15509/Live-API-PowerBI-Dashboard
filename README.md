@@ -1,4 +1,4 @@
-📊 ##Live API Data Integration: Real-Time Dashboards with Python & Power BI##
+📊 Live API Data Integration: Real-Time Dashboards with Python & Power BI
 🚀 Project Overview
 
 This project builds a real-time interactive dashboard using Python and Power BI to analyze global socio-economic and health indicators. The system automatically fetches updated data from a public API, processes it using Python, and visualizes it in Power BI for live insights.
@@ -6,11 +6,12 @@ This project builds a real-time interactive dashboard using Python and Power BI 
 This eliminates manual data updates and enables automated, real-time decision-making dashboards.
 
 🧰 Tools & Technologies
-Python (Pandas, Requests)
-Power BI
-REST API (Public Data Sources)
-Data Visualization
-DAX (for analytics in Power BI)
+
+1.Python (Pandas, Requests)
+2.Power BI
+3.REST API (Public Data Sources)
+4.Data Visualization
+5.DAX (for analytics in Power BI)
 🔗 Data Pipeline
 Data is fetched from a public API using Python
 Data is cleaned and transformed using Pandas
@@ -52,10 +53,11 @@ Automated data refresh via API integration
 To demonstrate how real-time data pipelines + Power BI dashboards can be used to track global development indicators and support data-driven decision-making.
 
 🚀 Future Improvements
-Deploy API pipeline on cloud (Azure/AWS)
-Add machine learning for prediction trends
-Automate Power BI refresh scheduling
-Add more real-time data sources
+
+1.Deploy API pipeline on cloud (Azure/AWS)
+2.Add machine learning for prediction trends
+3.Automate Power BI refresh scheduling
+4.Add more real-time data sources
 👨‍💻 Author
 
 Harkaran Singh Marwaha
